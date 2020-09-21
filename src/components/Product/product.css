@@ -1,0 +1,13 @@
+.productContainer{
+    display:flex;
+    border-bottom:2px solid lightgrey;
+    margin-bottom:10px;
+    padding:10px;
+}
+.product-name{
+    color:blue;
+}
+.product-btn{
+    border-radius:20px;
+    cursor:pointer;
+}
