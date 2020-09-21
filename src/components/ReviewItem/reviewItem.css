@@ -1,0 +1,6 @@
+.review-items{
+    display:flex;
+}
+.itemContainer{
+    border-right:1px solid gray;
+}
